@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshihab&label=Profile%20views&color=0e75b6&style=flat" alt="hrshihab" /> </p>
 
-- 💬 Ask me about **react, next.js,postgreSQL,GraphQL,Prisma,Docker,node.js,express.js,mongodb,firebase**
+- 💬 Ask me about **react,Python, next.js,postgreSQL,GraphQL,Prisma,Docker,node.js,express.js,mongodb,firebase**
 
 - 📫 How to reach me **hrshihab10@gmail.com**
 
